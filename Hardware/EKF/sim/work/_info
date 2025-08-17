@@ -1,0 +1,505 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\capstone_verilog_2024\ekf\rev01\sim
+Z1 !s11f MIXED_VERSIONS
+vadd
+!i10b 1
+Z2 !s100 cdC[2<NS]96lzcYJZm3iH2
+Z3 I;Sgg:ILE<FWQe]98znVb>0
+Z4 V6koRNVIC;4bPbz?eeZOFm0
+Z5 dD:\capstone_verilog_2024\2024_08_26\rev42_fnd_ch_dch\sim
+Z6 w1715001390
+Z7 8../src/rtl/building_blocks/add.v
+Z8 F../src/rtl/building_blocks/add.v
+L0 2
+Z9 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z10 !s108 1724659403.950000
+Z11 !s107 ../testbench/testbench.v|../src/rtl/ekf_discharge.v|../src/rtl/ekf_charge.v|../src/rtl/top.v|../src/rtl/FPGA/fnd_decoder.v|../src/rtl/FPGA/soc_decoder.v|../src/rtl/MEMORY_DIS/rom_discharge.v|../src/rtl/MEMORY_CH/rom_charge.v|../src/rtl/kalman_alu/alu_xrc_p.v|../src/rtl/kalman_alu/alu_x_vt_hat.v|../src/rtl/kalman_alu/alu_p_1to4.v|../src/rtl/kalman_alu/K_bottom.v|../src/rtl/kalman_alu/K_alu.v|../src/rtl/building_blocks/div_d.v|../src/rtl/building_blocks/mul.v|../src/rtl/building_blocks/add.v|../src/rtl/building_blocks/alu_3.v|../src/rtl/building_blocks/alu_2.v|
+Z12 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+valu
+Z13 I?EnPFDYi=C^0oH9cm@8PW2
+Z14 V[kVdaQca3>B7G7@2FBRP`2
+Z15 dD:\capstone_verilog_2024\ekf\rev01\sim
+Z16 w1715001387
+Z17 8../src/rtl/alu.v
+Z18 F../src/rtl/alu.v
+L0 4
+R9
+r1
+31
+Z19 !s108 1715088706.786000
+Z20 !s107 ../testbench/testbench.v|../src/rtl/top.v|../src/rtl/data_width.v|../src/rtl/mul.v|../src/rtl/add.v|../src/rtl/alu.v|
+R12
+o-O0
+Z21 !s100 EbVf[13>z4R0D0KVKXP5V3
+!i10b 1
+!s85 0
+!s101 -O0
+valu_1
+Z22 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Z23 I=PMY9<^gO50V:`6d_ScdY0
+Z24 VDg1SIo80bB@j0V0VzS_@n1
+Z25 dF:/Capstone/rev09_div_change_x_soc/sim
+Z26 w1716366738
+Z27 8../src/rtl/building_blocks/alu_1.v
+Z28 F../src/rtl/building_blocks/alu_1.v
+Z29 L0 4 80
+Z30 OV;L;2020.1;71
+r1
+31
+R12
+Z31 tCvgOpt 0
+Z32 !s110 1716383171
+Z33 !s108 1716383171.000000
+Z34 !s107 ../testbench/testbench.v|../src/rtl/ekf.v|../src/rtl/MEMORY/rom.v|../src/rtl/kalman_alu/alu_xrc_p.v|../src/rtl/kalman_alu/alu_x_vt_hat.v|../src/rtl/kalman_alu/alu_p_1to4.v|../src/rtl/kalman_alu/K_bottom.v|../src/rtl/kalman_alu/K_alu.v|../src/rtl/building_blocks/div_d.v|../src/rtl/building_blocks/mul.v|../src/rtl/building_blocks/add.v|../src/rtl/building_blocks/alu_3.v|../src/rtl/building_blocks/alu_2.v|../src/rtl/building_blocks/alu_1.v|
+Z35 !s100 jXDRPT>E`Oa0oLCkJWUW10
+!i10b 1
+!i122 14
+!s85 0
+!i113 1
+valu_2
+!i10b 1
+Z36 !s100 5U0cAo@EXkXd`D@_Wml=F1
+Z37 IF0JT708B7fSIR<kYlGS7:2
+Z38 Vicm:j]?^SV0kYi62lP:6I3
+R5
+Z39 w1716191950
+Z40 8../src/rtl/building_blocks/alu_2.v
+Z41 F../src/rtl/building_blocks/alu_2.v
+L0 4
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+o-O0
+valu_3
+!i10b 1
+Z42 !s100 3ARz5[394fS@ceg9TZKJb1
+Z43 Imjg@7iHM[lN<<8mEECzzd0
+Z44 Vgj5L<6cB?8k5Yz@DjZ^GP0
+R5
+Z45 w1716192126
+Z46 8../src/rtl/building_blocks/alu_3.v
+Z47 F../src/rtl/building_blocks/alu_3.v
+L0 4
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+o-O0
+valu_p_1to4
+!i10b 1
+Z48 !s100 bb=>EMP[VL9chlQNb;a:83
+Z49 IcHh0L30Nk<iU;1ELlaIk:2
+Z50 V=^=5K6[YoKK`Zn1ah`f6C1
+R5
+Z51 w1716018470
+Z52 8../src/rtl/kalman_alu/alu_p_1to4.v
+Z53 F../src/rtl/kalman_alu/alu_p_1to4.v
+L0 7
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+o-O0
+valu_x_vt_hat
+!i10b 1
+Z54 !s100 CFaVDIK^RNgSK0[>I?oez2
+Z55 IO;B?D73@LZbhg^=hVMl^V2
+Z56 VSE]o10@dz]dN3iGUZ:Rf:2
+R5
+Z57 w1715880370
+Z58 8../src/rtl/kalman_alu/alu_x_vt_hat.v
+Z59 F../src/rtl/kalman_alu/alu_x_vt_hat.v
+L0 5
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+o-O0
+valu_xrc_p
+!i10b 1
+Z60 !s100 z?feD8^TT>[MI<1YK:bi_3
+Z61 IIL5IK3RF>LUO:65HPOKkG0
+Z62 V3MgKhUiO=laX6U1APS;V82
+R5
+Z63 w1715697580
+Z64 8../src/rtl/kalman_alu/alu_xrc_p.v
+Z65 F../src/rtl/kalman_alu/alu_xrc_p.v
+L0 7
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+o-O0
+vdata_width
+Z66 I1D=4YJW1WGY2SYmOTcbb80
+Z67 V:A6aLd38Ga0;]PiX=ZbKc1
+R15
+Z68 w1715001386
+Z69 8../src/rtl/data_width.v
+Z70 F../src/rtl/data_width.v
+L0 3
+R9
+r1
+31
+R19
+R20
+R12
+o-O0
+Z71 !s100 Z2]@2lk>>E_5^WOhF;ScF1
+!i10b 1
+!s85 0
+!s101 -O0
+vdiv
+Z72 ID<[`MBKWfokUh[e[BQe^c2
+Z73 V:hD993WQ7>zFWfBa5Q]Xo0
+Z74 dD:\capstone_verilog_2024\ekf\rev07\sim
+Z75 w1716240669
+Z76 8../src/rtl/building_blocks/div.v
+Z77 F../src/rtl/building_blocks/div.v
+L0 1
+R9
+r1
+31
+R12
+o-O0
+Z78 !s100 0RS=f<jceUGcSZ4DP8jMh3
+Z79 !s108 1716306780.782000
+Z80 !s107 ../testbench/testbench.v|../src/rtl/ekf.v|../src/rtl/MEMORY/rom.v|../src/rtl/kalman_alu/alu_xrc_p.v|../src/rtl/kalman_alu/alu_x_vt_hat.v|../src/rtl/kalman_alu/alu_p_1to4.v|../src/rtl/kalman_alu/K_bottom.v|../src/rtl/kalman_alu/K_alu.v|../src/rtl/building_blocks/div.v|../src/rtl/building_blocks/mul.v|../src/rtl/building_blocks/add.v|../src/rtl/building_blocks/alu_3.v|../src/rtl/building_blocks/alu_2.v|../src/rtl/building_blocks/alu_1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdiv_d
+!i10b 1
+Z81 !s100 _:b6@h;Fh_BdHP0a:CmAP0
+Z82 I2kh^VBV?i2ZnIOj9IPR5V3
+Z83 VLBMId16J`0eMC:k?_zKzI3
+R5
+Z84 w1716357916
+Z85 8../src/rtl/building_blocks/div_d.v
+Z86 F../src/rtl/building_blocks/div_d.v
+L0 1
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+o-O0
+vekf
+Z87 InPIO4nOzWcRJT6<hSo0dd0
+Z88 VQ5a9aVb[WTaB5zM;L:^]Y1
+Z89 dD:\capstone_verilog_2024\2024_08_26\rev30_fnd_charge\sim
+Z90 w1724647919
+Z91 8../src/rtl/ekf.v
+Z92 F../src/rtl/ekf.v
+L0 6
+R9
+r1
+31
+Z93 !s108 1724649227.055000
+Z94 !s107 ../testbench/testbench.v|../src/rtl/ekf.v|../src/rtl/top.v|../src/rtl/FPGA/fnd_decoder.v|../src/rtl/FPGA/soc_decoder.v|../src/rtl/MEMORY/rom.v|../src/rtl/kalman_alu/alu_xrc_p.v|../src/rtl/kalman_alu/alu_x_vt_hat.v|../src/rtl/kalman_alu/alu_p_1to4.v|../src/rtl/kalman_alu/K_bottom.v|../src/rtl/kalman_alu/K_alu.v|../src/rtl/building_blocks/div_d.v|../src/rtl/building_blocks/mul.v|../src/rtl/building_blocks/add.v|../src/rtl/building_blocks/alu_3.v|../src/rtl/building_blocks/alu_2.v|
+R12
+o-O0
+Z95 !s100 :;=V9nT`j6Q2B669L1Q]c1
+!i10b 1
+!s85 0
+!s101 -O0
+vekf_charge
+!i10b 1
+Z96 !s100 3o?LM_i@g>]Mj4YfA4_<W2
+Z97 IWaI`1bUkd^WP_dzKLageV2
+Z98 V<kf7UVRcf;D^WLUI1eP3>1
+R5
+Z99 w1724657748
+Z100 8../src/rtl/ekf_charge.v
+Z101 F../src/rtl/ekf_charge.v
+L0 6
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+o-O0
+vekf_discharge
+!i10b 1
+Z102 !s100 H0=2`:bbnX5kzRo2QN`7z2
+Z103 IONI?:Wz]fez`iWl;V:[Ao1
+Z104 V:QQD`GPC5A`km7=Y9dbN13
+R5
+Z105 w1724657742
+Z106 8../src/rtl/ekf_discharge.v
+Z107 F../src/rtl/ekf_discharge.v
+L0 6
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+o-O0
+vfnd_decoder
+!i10b 1
+Z108 !s100 FolYOiK<aAlk`JN::ghg>0
+Z109 IVlaYJG;G<mYE_4nShi0LG0
+Z110 VbO9lSPS1i>OROn=?KImWf2
+R5
+Z111 w1716795284
+Z112 8../src/rtl/FPGA/fnd_decoder.v
+Z113 F../src/rtl/FPGA/fnd_decoder.v
+L0 3
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+o-O0
+vK_alu
+!i10b 1
+Z114 !s100 bZbL;UL?haX4YHMV3P>TG2
+Z115 I;IzI<gfBf3zC`]4o18bZ82
+Z116 V@iT0X2k6QTD6bPolz7kOZ3
+R5
+Z117 w1716337982
+Z118 8../src/rtl/kalman_alu/K_alu.v
+Z119 F../src/rtl/kalman_alu/K_alu.v
+L0 3
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+o-O0
+Z120 n@k_alu
+vK_bottom
+!i10b 1
+Z121 !s100 c]=7PI12LD0[kSafVQ7551
+Z122 I[>hRIC[1MXZIcZ3ZHDdc`1
+Z123 V_?N2B;QR>;z3MdiSCP2b13
+R5
+Z124 w1716299802
+Z125 8../src/rtl/kalman_alu/K_bottom.v
+Z126 F../src/rtl/kalman_alu/K_bottom.v
+L0 7
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+o-O0
+Z127 n@k_bottom
+vmul
+!i10b 1
+Z128 !s100 G]<hiOMe[ZeWAXL`PmFY71
+Z129 IZ>kS=WIZ<]Q^]<EMmQgz]3
+Z130 VW9ETK8hk5aHRJ3ARhVmUe2
+R5
+Z131 w1716785130
+Z132 8../src/rtl/building_blocks/mul.v
+Z133 F../src/rtl/building_blocks/mul.v
+L0 2
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+o-O0
+vrom
+Z134 I0^e0Q`02fzJTgg_@Rf0SK0
+Z135 Vf>7][@Kc86b`C9O]RGQLY2
+R89
+Z136 w1716205894
+Z137 8../src/rtl/MEMORY/rom.v
+Z138 F../src/rtl/MEMORY/rom.v
+L0 3
+R9
+r1
+31
+R93
+R94
+R12
+o-O0
+Z139 !s100 ?JNnK68L]^23UA@4bR9QQ0
+!i10b 1
+!s85 0
+!s101 -O0
+vrom_charge
+!i10b 1
+Z140 !s100 iUO[[d@6H:^KYl>nJ7=CV3
+Z141 I;=:05O1j<QKHAACP2BXQo0
+Z142 VC=dQE2MC=^<RcNTRVPVnQ2
+R5
+Z143 w1724650918
+Z144 8../src/rtl/MEMORY_CH/rom_charge.v
+Z145 F../src/rtl/MEMORY_CH/rom_charge.v
+L0 3
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+o-O0
+vrom_discharge
+!i10b 1
+Z146 !s100 dE4QS8oIYDFhI?X^o5bWo2
+Z147 IDf9VV_XC4<`:PVJ55eaGD2
+Z148 V@;^GZPhCYDPPXom9Ximn93
+R5
+Z149 w1724650924
+Z150 8../src/rtl/MEMORY_DIS/rom_discharge.v
+Z151 F../src/rtl/MEMORY_DIS/rom_discharge.v
+L0 3
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+o-O0
+vsoc_decoder
+!i10b 1
+Z152 !s100 zfBk<M]3Io^n`W6fNfhg;0
+Z153 IOge:JDjkRBJK<goQlVK<01
+Z154 V6O52Hlb?fKXFC9_4JN`Zh2
+R5
+Z155 w1716795378
+Z156 8../src/rtl/FPGA/soc_decoder.v
+Z157 F../src/rtl/FPGA/soc_decoder.v
+L0 3
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+o-O0
+vtestbench
+!i10b 1
+!s100 =VLmn0dClH6>;[]Ob02f=2
+Ie;N?dPkoio<gEmDh6OTzB2
+Z158 VhGfW:390DM[oDMzegDH9`2
+R5
+w1724659400
+Z159 8../testbench/testbench.v
+Z160 F../testbench/testbench.v
+L0 3
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+o-O0
+vtop
+!i10b 1
+Z161 !s100 LzQT7[W6JSkzf4_@b1Aei0
+Z162 Iz7RH5?0i;N3j7d]GUTdH81
+Z163 VjLbo1WbiFmQmCK^GG_9]Y0
+R5
+Z164 w1724657531
+Z165 8../src/rtl/top.v
+Z166 F../src/rtl/top.v
+L0 3
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+o-O0
+vtop_alu
+Z167 IHDOjoz8_IVkUOXiTn;;E^3
+Z168 VS_Ij_1N42BRj_[VZOGjU60
+Z169 dD:\capstone_verilog_2024\ekf\rev06_k_alu_div\sim
+Z170 w1716197977
+Z171 8../src/rtl/top_alu.v
+Z172 F../src/rtl/top_alu.v
+L0 3
+R9
+r1
+31
+Z173 !s108 1716207634.171000
+Z174 !s107 ../testbench/testbench.v|../src/rtl/top_div.v|../src/rtl/top_alu.v|../src/rtl/ekf.v|../src/rtl/kalman_alu/alu_xrc_p.v|../src/rtl/kalman_alu/alu_x_vt_hat.v|../src/rtl/kalman_alu/alu_p_1to4.v|../src/rtl/kalman_alu/K_bottom.v|../src/rtl/kalman_alu/K_alu.v|../src/rtl/building_blocks/div.v|../src/rtl/building_blocks/mul.v|../src/rtl/building_blocks/add.v|../src/rtl/building_blocks/alu_3.v|../src/rtl/building_blocks/alu_2.v|../src/rtl/building_blocks/alu_1.v|
+R12
+o-O0
+Z175 !s100 gAB=>;bh0a`58UCL20]Lz0
+!i10b 1
+!s85 0
+!s101 -O0
+vtop_div
+Z176 IVPbFNPhndYmV8[RcnEkME0
+Z177 VGQi5aYPf3DB_9UiYn_MF<2
+R169
+Z178 w1716197919
+Z179 8../src/rtl/top_div.v
+Z180 F../src/rtl/top_div.v
+L0 3
+R9
+r1
+31
+R173
+R174
+R12
+o-O0
+Z181 !s100 l@>U;BcKVS:`]f;e]AWkI2
+!i10b 1
+!s85 0
+!s101 -O0
