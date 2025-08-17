@@ -85,8 +85,10 @@ ALU_P는 오차 공분산의 추정값을 계산한다. 2x2 행렬의 구조를 
 
 ![alt text](img/ALU2.png)
 > ALU_X_RC_P 와 ALU_VT_HAT의 Block diagram
+
 ![alt text](img/ALU3.png)
 > K_BOTTOM과 K_ALU의 Block diagram
+
 ![alt text](img/ALU4.png)
 > ALU_P의 Block diagram 
 
